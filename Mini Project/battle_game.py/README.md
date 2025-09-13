@@ -39,7 +39,7 @@ Copier le code
 ## ▶️ How to Run
 1. Clone this repository:
    ```bash
-    git clone https://github.com/your-username/battle-game.git
+    git clone https://github.com/Belakebi-Amine/battle-game.git
 
 2. Go inside the project folder:
     cd battle-game
